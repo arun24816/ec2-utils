@@ -1,3 +1,4 @@
+check eni.sh file, and run this scrip on centos for configre the muliple eni
 ## ec2-net-utils for Fedora/systemd
 
 This is a fork of Amazon's ec2-utils with modifications to support Elastic Network Interfaces (ENI) under systemd.
